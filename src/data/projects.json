@@ -1,0 +1,65 @@
+[
+	{
+		"description": "  Conference Central Website that allow you to manage your upcoming conferences.",
+		"icon": "🤝",
+		"homepage": "https://conference-app-fullstack.appspot.com/",
+		"name": "CONFERENCE CENTRAL WEB SITE",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  NFT Marketplace on Pulse chain",
+		"icon": "🪙",
+		"homepage": "https://nftonpulse.io/",
+		"name": "NFTonPulse",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  A smart restaurant system proving billing management, kitchen management, QR Orders, Order settlement etc.",
+		"icon": "🍽️",
+		"homepage": "https://www.servofeat.com/",
+		"name": "Restaurant POS Systems",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  Computer based services and corporate trainings online/offline.",
+		"icon": "🏢",
+		"homepage": "https://ether-channels-business.vercel.app/",
+		"name": "Etherchanel solution service",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  Website page of a company offering Human Capital Management services.",
+		"icon": "👨‍💼",
+		"homepage": "https://daywax.netlify.app/",
+		"name": "Landing Page Website",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  Kind of e-commerce website like shopify.",
+		"icon": "🛒",
+		"homepage": "https://serdargokhan-e-commerce.netlify.app/",
+		"name": "Shopify Clone",
+		"post": "",
+		"template": false,
+		"url": ""
+	},
+	{
+		"description": "  Personal portfolio that you see now!😉 ",
+		"icon": "🌿",
+		"homepage": "https://about-jeff.web.app",
+		"name": "Jeff Graves Portfolio",
+		"post": "",
+		"template": false,
+		"url": ""
+	}
+]

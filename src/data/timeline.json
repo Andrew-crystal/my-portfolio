@@ -1,0 +1,64 @@
+[
+	{
+		"date": "04-28-2023",
+		"title": "Seeking for a New Job",
+		"description": "Want to Find a Job I Can Really Contribute to the World!",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-30-2021",
+		"title": "Started @ 15Five Inc.",
+		"description": "Worked as a Senior Full Stack Developer",
+		"done": [
+			"Designed, developed and modified 7+ software systems and custom components.",
+			"Used JavaScript frameworks ՄReactJS, AngularJS, Vue.js), TypeScript, Node.js and web3.js to interact with the Blockchain network.",
+			"Developed 5+ full-stack web applications which processed, analyzed and rendered data visually.",
+			"Planned, wrote and debugged 12+ web applications and software with complete accuracy."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "01-15-2019",
+		"title": "Promoted to Full Stack!",
+		"description": "Continued work as a Full Stack Developer at Nexify Ltd.",
+		"done": [
+			"Maximized 4+ application's efficiency data quality, scope, operability, and flexibility.",
+			"Used various ideas from distributed computing, large-scale design, real-time data processing, data storage, ML, and AI to solve challenging dataset problems.",
+			"Developed app integration with REST / SOAP and other APIs for Google Maps, social media logins, payment processors and other services.",
+			"Managed, optimized and updated 9+ PHP databases as necessary."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-20-2018",
+		"title": "First Developer Role",
+		"description": "Began an Internship as a Backend Developer working at Nexify Ltd.",
+		"done": [
+			"Optimized SQL queries for the heavy-load parts of the system which improved website responsiveness and reduced the database costs by 20%.",
+			"Developed and maintained 10+ websites using ASP.NET MVC and SQL Server.",
+			"Developed a platform for e-Commerce digital distribution used by 200,000 users worldwide, employing .NET and Azure cloud infrastructure.",
+			"Provided infrastructure and integration guidelines for load-balancing and web farm deployment.",
+			"Designed an integrated database using MongoDB, MySQL, and PostgreSQL that leveraged the React architecture to yield on-demand detailed feedback.",
+			"Designed and implemented scalable backend for 5 business-critical websites."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-04-2018",
+		"title": "Got Bachelor's Degree in Computer Science",
+		"description": "Graduated Hong Kong University of Science and Technology",
+		"icon": "feather:award"
+	},
+	{
+		"date": "09-10-2014",
+		"title": "Entered University",
+		"description": "Began Studying Mathematics and Computer Science at Hong Kong University of Science and Technology",
+		"icon": "feather:book"
+	},
+	{
+		"date": "03-30-1997",
+		"title": "Birthday!",
+		"description": "I was born on 8th of March 1997",
+		"icon": "feather:gift"
+	}
+]
