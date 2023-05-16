@@ -41,7 +41,7 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://github.com/Artemis330',
+		href: 'https://github.com/Andrew-crystal',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
@@ -49,12 +49,12 @@ const ACTIONS: Array<NavigationItem> = [
 
 export default function HomePage(): JSX.Element {
 	const today = new Date();
-	const birthday = new Date('1997-03-30');
+	const birthday = new Date('1998-03-30');
 	const age = differenceInYears(today, birthday);
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `I am a ${age} year old Full-Stack Developer`;
+	const description = `I am a ${age} year old Senior Blockchain Developer`;
 	const skills = [
 		{
 			name: 'HTML5',
@@ -194,7 +194,7 @@ export default function HomePage(): JSX.Element {
 						Hello{' '}
 						<span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
 						I&apos;m
-						<Pill.Standard className="mt-4">Jeff Graves</Pill.Standard>
+						<Pill.Standard className="mt-4">Andrew Mark</Pill.Standard>
 					</Animate>
 
 					<Animate
